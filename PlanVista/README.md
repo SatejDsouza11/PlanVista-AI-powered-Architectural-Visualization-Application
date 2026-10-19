@@ -58,7 +58,3 @@ The app runs at http://localhost:3000.
 docker build -t planvista .
 docker run -p 3000:3000 planvista
 ```
-
-## Credits
-
-This project is based on the open-source *Roomify* app from the [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) tutorial ([original repository](https://github.com/adrianhajdin/roomify)). Branding, naming and documentation were changed in this version.
