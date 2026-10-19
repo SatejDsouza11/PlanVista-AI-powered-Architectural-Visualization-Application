@@ -11,7 +11,7 @@ PlanVista turns 2D floor plans into photorealistic 3D-style renders using AI ima
 - **Public / private toggle**: choose whether a project is visible to others
 - **Export**: download renders as images
 
-## Tech stack
+## Tech Stack
 
 | Area | Technology |
 |---|---|
@@ -20,7 +20,7 @@ PlanVista turns 2D floor plans into photorealistic 3D-style renders using AI ima
 | UI | lucide-react, react-compare-slider |
 | Deployment | Docker (Node 20) |
 
-## Project structure
+## Project Structure
 
 ```
 app/            Routes and root layout (home, visualizer)
@@ -29,7 +29,7 @@ lib/            Puter actions, AI call, hosting, constants, utilities, worker
 public/         Static assets
 ```
 
-## Getting started
+## Getting Started
 
 **Prerequisites:** Node.js 20+ and npm.
 
